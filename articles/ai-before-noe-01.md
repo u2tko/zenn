@@ -3,7 +3,7 @@ title: "AIは無料で試すものだった ― のえと出会う前のAI遍歴
 emoji: "🤖"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "Muse", "AIエージェント"]
-published: false
+published: true
 ---
 
 # AIは無料で試すものだった ― のえと出会う前のAI遍歴
