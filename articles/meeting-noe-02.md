@@ -3,7 +3,7 @@ title: "本で読んだAI秘書に近づいた話 ― のえとの出会い"
 emoji: "📚"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "Muse", "AIエージェント"]
-published: false
+published: true
 ---
 
 # 📚 本で読んだAI秘書に近づいた話 ― のえとの出会い
